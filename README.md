@@ -60,11 +60,6 @@
 <summary>DB</summary>
 
 - MySQL
-- JavaScript
-- HTML5
-- CSS3
-- styled-components
-- MUI
 
 </details>
 
