@@ -91,7 +91,7 @@
 <strong>Client 실행</strong>
   1. 원격 저장소 복제
 ```
-$ git clone https://github.com/seongbiny/soboksobok.git
+$ git clone https://github.com/hyunjung0409/SobokSobok.git
 ```
   2. 프로젝트 폴더로 이동 후 frontend 폴더로 이동
 ```
